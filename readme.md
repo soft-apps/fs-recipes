@@ -4,4 +4,4 @@ These are "recipes" or ways of using Flight Simulator in new and novel ways. Fee
 
 [http://flightsimulator.soft.works](http://flightsimulator.soft.works)
 
-*Thanks to Becca Abbe, Elliott Cost, Umfang, Webb Allen, Max Fowler, Faye Kahn, and Sam Hart for inspiring these.*
+*Thanks to Becca Abbe, Elliott Cost, Umfang, Webb Allen, Max Fowler, Catherine Schmidt, Faye Kahn, and Sam Hart for inspiring these.*
