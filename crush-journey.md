@@ -2,4 +2,4 @@
 
 Take at the same time and place as your crush. So you're on airplane mode at the same time, going to the same "place." You’ll emerge from airplane mode at the same time. You could continue having airplane mode dates and dreaming of where to travel next.
 
-*Thanks [Umfang](https://twitter.com/UMFANG/status/1093951331184852993) for the tweet*
+*Thanks [Umfang](https://twitter.com/UMFANG/status/1093951331184852993) for the idea.*
