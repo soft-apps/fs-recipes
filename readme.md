@@ -1,7 +1,5 @@
 # Recipes for Flight Simulator
 
-These are "recipes" or ways of using Flight Simulator in new and novel ways. Feel free to try them out. Feel free to make a pull request to add your own, or just get in touch with Laurel or Dan.
+These are "recipes" or ways of using Flight Simulator in new and novel ways. Like any recipes, they are made to be used and altered. Feel free to try them out. If you have new recipe idea of your own, feel free to make a pull request if that's your thing, or get in touch on [@soft_utilities Twitter](https://twitter.com/soft_utilities).
 
 [http://flightsimulator.soft.works](http://flightsimulator.soft.works)
-
-*Thanks to Becca Abbe, Elliott Cost, Umfang, Webb Allen, Max Fowler, Catherine Schmidt, Faye Kahn, and Sam Hart for inspiring these.*
